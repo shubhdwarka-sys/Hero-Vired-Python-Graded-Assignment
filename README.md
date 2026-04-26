@@ -1,7 +1,7 @@
 # 🚗 Used Car Price Analysis — EDA Project
 
 **Hero Vired | Python Graded Assignment**
-**Author:** Subhashish Adhikari | **Batch:** 9B_12349
+**Author:** Subhash Adhikari | **Batch:** 9B_12349
 
 ---
 
